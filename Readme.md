@@ -39,4 +39,4 @@ Before you begin, ensure you have the following installed:
    }
 
 
-**This will start the application. Open your browser and navigate to the specified port (usually http://localhost:3500) to view the app.**
+**This will start the application. Open your browser and navigate to the specified port (usually http://localhost:3000) to view the app.**
